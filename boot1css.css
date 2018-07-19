@@ -1,0 +1,40 @@
+body{
+width:100%;    
+margin:0;
+padding:0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.fa {
+  padding:10px;
+  font-size: 20px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px 5px 0px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+}
+
+
+.lnk1{
+    color:darkgray;
+}
+
+.lnk1:hover{
+    color:white;
+    text-decoration: none;
+}
